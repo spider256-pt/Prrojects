@@ -68,3 +68,6 @@ This repository is for **educational and ethical use only**. All simulations wer
 ---
 
 ⭐️ Star this repo if you found it useful, and feel free to fork or reference it in your own cybersecurity learning journey!
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
